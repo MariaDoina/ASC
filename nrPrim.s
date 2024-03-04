@@ -1,3 +1,4 @@
+#This code checks if a number is prime or not
 .data
 	n: .long 35
 	d: .long 0
