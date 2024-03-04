@@ -1,3 +1,4 @@
+#Calculating the arithmetic mean of a set of numbers
 .data
 	vector: .long 10, 10, 9
 	n: .long 3
