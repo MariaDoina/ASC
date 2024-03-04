@@ -1,3 +1,4 @@
+#Simple code that calculates the addition, subtraction, multiplication and division of 2 numbers
 .data
 	x: .long 30
 	y: .long 7
