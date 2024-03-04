@@ -1,3 +1,4 @@
+#Code that compares 2 numbers
 .data
 	a: .long 5
 	b: .long -3
